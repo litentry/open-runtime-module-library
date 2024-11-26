@@ -13,4 +13,5 @@ Cargo.lock
 .idea
 
 # Intentional not commiting this file to allow this repo to be added as a submodule
-/Cargo.toml
+# Litentry: comment this out
+# /Cargo.toml
